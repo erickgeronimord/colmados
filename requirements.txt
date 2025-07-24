@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+numpy
+pydeck
+scikit-learn
+matplotlib
+wordcloud
+protobuf
+geopandas
+folium
+streamlit_folium
+streamlit_extras
